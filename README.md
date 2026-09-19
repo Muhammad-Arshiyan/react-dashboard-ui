@@ -1,8 +1,15 @@
 # React Dashboard UI
 
-A modern, clean, and fully responsive dashboard user interface built with React and Tailwind CSS.
+A modern, clean, and fully responsive dashboard user interface built with **React.js** and **Tailwind CSS**.
 
 The project focuses on reusable React components, responsive layouts, clean UI design, and a simple component-based structure.
+
+## 👨‍💻 Author
+
+**Muhammad Arshiyan**  
+Frontend Developer
+
+- GitHub: [@Muhammad-Arshiyan](https://github.com/Muhammad-Arshiyan)
 
 ## ✨ Features
 
@@ -16,9 +23,7 @@ The project focuses on reusable React components, responsive layouts, clean UI d
 - ↕️ Customer sorting interface
 - 🟢 Active / 🔴 Inactive customer status
 - 📄 Pagination UI
-- 📱 Mobile-friendly layout
 - ⚡ Fast development with Vite
-- ♿ Semantic and accessible UI structure
 
 ## 🛠️ Tech Stack
 
@@ -57,10 +62,3 @@ react-dashboard-ui/
     ├── package-lock.json
     ├── vite.config.js
     └── README.md
-
-## 👨‍💻 Author
-
-**Muhammad Arshiyan**  
-Frontend Developer
-
-- GitHub: [@Muhammad-Arshiyan](https://github.com/Muhammad-Arshiyan)
