@@ -57,3 +57,10 @@ react-dashboard-ui/
     ├── package-lock.json
     ├── vite.config.js
     └── README.md
+
+## 👨‍💻 Author
+
+**Muhammad Arshiyan**  
+Frontend Developer
+
+- GitHub: [@Muhammad-Arshiyan](https://github.com/Muhammad-Arshiyan)
