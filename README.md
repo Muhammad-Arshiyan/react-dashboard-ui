@@ -1,6 +1,6 @@
 # React Dashboard UI
 
-A modern, clean, and fully responsive dashboard user interface built with **React.js** and **Tailwind CSS**.
+A modern, clean, and fully responsive dashboard user interface built with **React.js** and **CSS3**.
 
 The project focuses on reusable React components, responsive layouts, clean UI design, and a simple component-based structure.
 
@@ -16,7 +16,7 @@ Frontend Developer
 - 📊 Modern dashboard interface
 - 📱 Fully responsive design
 - 🧩 Reusable React components
-- 🎨 Tailwind CSS styling
+- 🎨 Custom CSS3 styling
 - 👥 Customer management table
 - 📈 Dashboard statistics cards
 - 🔍 Customer search interface
@@ -29,11 +29,10 @@ Frontend Developer
 
 - **React.js**
 - **Vite**
-- **Tailwind CSS**
 - **JavaScript (ES6+)**
-- **React Icons**
-- **HTML5**
 - **CSS3**
+- **HTML5**
+- **React Icons**
 
 ## 📂 Project Structure
 
