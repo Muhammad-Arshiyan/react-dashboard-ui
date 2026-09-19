@@ -46,6 +46,7 @@ react-dashboard-ui/
     │   │   └── CustomerTable.jsx
     │   │
     │   ├── App.jsx
+    │   ├── App.css
     │   ├── index.css
     │   └── main.jsx
     │
